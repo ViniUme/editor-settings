@@ -75,5 +75,5 @@
     "workbench.activityBar.location": "top",
     "window.customTitleBarVisibility": "never",
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": false
   }
